@@ -59,8 +59,7 @@ export default function LandingPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-orange-50">
-      {/* Google Analytics - Replace G-XYZ with your actual GA4 measurement ID */}
-      <GoogleAnalytics gaId="G-XYZ" />
+      <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID!} />
 
       {/* Header */}
       <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-200">
