@@ -1,6 +1,6 @@
 # bilhete-barato-website
 
-Website da empresa Bilhete Barato, um SaaS de emissão de passagens promocionais via WhatsApp.
+Website for a company that sends alerts, a SaaS for issuing promotional tickets via telemessaging.
 
 ## License 
 
