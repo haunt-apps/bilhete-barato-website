@@ -9,4 +9,4 @@ Website for a company that sends alerts, a SaaS for issuing promotional tickets 
 
 ## License 
 
-MIT
+MIT.
